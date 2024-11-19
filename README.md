@@ -42,8 +42,7 @@ Dưới đây là **đề cương chi tiết** cho từng thành viên, **mô t�
    - **Hợp đồng hết hạn**: Cảnh báo khi hợp đồng lao động của nhân viên sắp hết hạn.
 
 #### **Layout Draft**:
-- **Trang Quản lý Nhân Sự**: Hiển thị danh sách nhân viên, chức năng tìm kiếm và lọc theo tên, phòng ban, chức vụ.
-- **Trang Thêm Nhân Viên**: Form nhập thông tin nhân viên, bao gồm thông tin cá nhân và chức vụ.
+- **Trang Quản lý Nhân Sự**: Hiển thị danh sách nhân viên, chức năng tìm kiếm và lọc theo tên, phòng ban, chức vụ, thêm, sửa xóa.
 - **Trang Quản lý Hợp Đồng**: Hiển thị danh sách các hợp đồng lao động, cho phép tạo mới, chỉnh sửa, gia hạn và theo dõi hợp đồng hết hạn.
 
 ---
