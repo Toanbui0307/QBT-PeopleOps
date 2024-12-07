@@ -1,6 +1,7 @@
 # QBT-PeopleOps
 Quản lý nhân viên công ty QBT bằng ngôn ngữ C#
 Dưới đây là **đề cương chi tiết** cho từng thành viên, **mô tả chức năng modules** và **layout draft** cho các chức năng cần quản lý trong hệ thống (bao gồm **chấm công**, **nhân sự**, và **đăng nhập**).
+để biết thêm chi tiết vui lòng liên hệ zalo 0345510330
 
 ### **Thành viên 1: Quản lý Chấm Công và Phụ Cấp**
 #### **Nhiệm vụ:**
